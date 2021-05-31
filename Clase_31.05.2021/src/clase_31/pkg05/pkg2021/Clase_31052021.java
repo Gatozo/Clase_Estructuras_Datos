@@ -7,7 +7,7 @@ public class Clase_31052021 {
 
     public static void main(String[] args) {
         System.out.println("Taller de conexión NetBeans GitHub");
-        system.out.println("Versión 2");
+        System.out.println("Versión 2");
     }
     
 }
